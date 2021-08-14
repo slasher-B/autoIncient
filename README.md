@@ -12,8 +12,7 @@ pip install -r requirements.txt
 python main.py your_targets.txt
 
 # 运行效果
-
-
+![image](https://github.com/slasher-B/autoIncient/blob/master/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C.png)
 
 # 工作流程
 1.判断目标是否可访问；
